@@ -1,0 +1,13 @@
+D:\Programming stuff\C#\Livestream++\Livestream++\bin\Debug\Livestream++.exe.config
+D:\Programming stuff\C#\Livestream++\Livestream++\bin\Debug\Livestream++.exe
+D:\Programming stuff\C#\Livestream++\Livestream++\bin\Debug\Livestream++.pdb
+D:\Programming stuff\C#\Livestream++\Livestream++\bin\Debug\MetroFramework.Design.dll
+D:\Programming stuff\C#\Livestream++\Livestream++\bin\Debug\MetroFramework.dll
+D:\Programming stuff\C#\Livestream++\Livestream++\bin\Debug\MetroFramework.Fonts.dll
+D:\Programming stuff\C#\Livestream++\Livestream++\obj\Debug\Livestream__.Form1.resources
+D:\Programming stuff\C#\Livestream++\Livestream++\obj\Debug\Livestream__.Properties.Resources.resources
+D:\Programming stuff\C#\Livestream++\Livestream++\obj\Debug\Livestream++.csproj.GenerateResource.Cache
+D:\Programming stuff\C#\Livestream++\Livestream++\obj\Debug\Livestream++.exe
+D:\Programming stuff\C#\Livestream++\Livestream++\obj\Debug\Livestream++.pdb
+D:\Programming stuff\C#\Livestream++\Livestream++\bin\Debug\Newtonsoft.Json.dll
+D:\Programming stuff\C#\Livestream++\Livestream++\obj\Debug\Livestream++.csprojResolveAssemblyReference.cache
